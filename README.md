@@ -6,6 +6,8 @@ This repository contains visual analytics on a retail dataset, focusing on sales
 - **Profit by US State**
 - **Sales and Profit by Category**
 
+## [Tableau Public](https://public.tableau.com/app/profile/sadikujjaman/viz/SalesDashboard_17470748887260/MonthlySales)
+
 ---
 
 ## 📁 Contents
